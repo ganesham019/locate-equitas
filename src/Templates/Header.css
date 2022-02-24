@@ -1,0 +1,23 @@
+.nav-link{
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+}
+.nav-item a .nav-link:hover{
+    text-decoration: none;
+    border-bottom:none;
+}
+a:hover{
+    text-decoration: none;
+}
+ .nav-item a:hover {
+    text-decoration: none;
+    border-bottom:2px solid orange;
+    transform: all 0.5s;
+}
+a:focus{
+    text-decoration: none;
+}

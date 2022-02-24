@@ -1,0 +1,101 @@
+.ArticleComponent {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.ArticalText1 {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(25, 67, 140, 1);
+}
+.ArticalText2 {
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.ArticalText3 {
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.ArticalText4 {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.ArticalText5 {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.MainText1 {
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.MainText2 {
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.OneImage {
+  height: 194px;
+  width: 50%;
+  top: 210px;
+  left: 170px;
+  position: absolute;
+  border-radius: 0px;
+  margin: 0px auto;
+  text-align: center;
+}
+.TwoImage {
+  height: 182px;
+  width: 50%;
+  left: 300px;
+  position: absolute;
+  border-radius: 0px;
+}
+.ThreeImage {
+  width: 50%;
+  border-radius: 0px;
+  position: absolute;
+  border-radius: 0px;
+}
+.StoryText1 {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(25, 67, 140, 1);
+}
+.StoryText2{
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+}

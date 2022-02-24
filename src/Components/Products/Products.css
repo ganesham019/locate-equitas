@@ -1,0 +1,70 @@
+.SliderText {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(25, 67, 140, 1);
+}
+.SliderComponent {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.SliderCard {
+  height: 202px;
+  border-radius: 10px;
+  border: 0.1px solid rgb(206, 202, 202);
+}
+.SlideCardF{
+  width: 370px;
+  height: 100%;
+}
+.Slides div {
+  margin-right: 5px;
+}
+.Slides {
+  height: 300px;
+}
+.GICapital {
+  font-size: 45px;
+}
+.SliderText2 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: center;
+  word-wrap: break-word;
+}
+.SliderTextF2 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: center;
+  width:350px;
+  word-wrap: break-word;
+  overflow: auto;
+  margin: 0 auto;
+  text-align: center;
+
+}
+.SliderText3 {
+    color: rgba(26, 69, 137, 1);
+    cursor: pointer;  
+}
+.SliderTextF3{
+  border: 0.2px solid rgb(221, 217, 217);
+  color: rgba(26, 69, 137, 1); 
+  width: 130px;
+  margin: auto;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+  margin-bottom:30px;
+}

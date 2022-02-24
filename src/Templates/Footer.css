@@ -1,0 +1,15 @@
+.hr {
+  border: 1.5px solid;
+  border-image-source: linear-gradient(90deg, #19477f 49.61%, #ad1a2c 50.46%);
+}
+.Socialicons div {
+  color: #777777;
+  height: 28px;
+  width: 28px;
+  font-size: 28px;
+  border-radius: 0px;
+}
+.Socialicons div :hover{
+    color: #4508d3;
+
+  }

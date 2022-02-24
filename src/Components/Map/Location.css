@@ -1,0 +1,49 @@
+.LocationSection {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.LocationText {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.MapCard {
+  width: 50%;
+}
+.SliderCardNearby {
+  height: 287px;
+  width: 358px;
+  border-radius: 8px;
+  border: 0.1px solid rgb(206, 199, 199);
+}
+.SliderTextNearby {
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.SliderTextNearby2 {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.SliderCardNearby:hover {
+  -webkit-box-shadow: 4px 4px 7px 1px rgba(189, 72, 86, 0.3);
+  -moz-box-shadow: 4px 4px 7px 1px rgba(189, 72, 86, 0.3);
+  box-shadow: 4px 4px 7px 1px rgba(189, 72, 86, 0.3);
+}
+
+@media (max-width: 767px) {
+  .MapCard {
+    width: 100%;
+  }
+}
