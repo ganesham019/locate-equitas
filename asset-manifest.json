@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ganesham019/locate-equitas.git/static/css/main.b213f593.css",
+    "main.js": "/ganesham019/locate-equitas.git/static/js/main.106f5108.js",
+    "static/media/imageTw.svg": "/ganesham019/locate-equitas.git/static/media/imageTw.f8c15628c09e0050a60a947dcb7afeed.svg",
+    "static/media/imageO.svg": "/ganesham019/locate-equitas.git/static/media/imageO.5b926ceccd63798f0ddc023f2149be20.svg",
+    "static/media/Equitas.svg": "/ganesham019/locate-equitas.git/static/media/Equitas.8506aa99989795d879c8a100ca07e24f.svg",
+    "static/media/Feature.svg": "/ganesham019/locate-equitas.git/static/media/Feature.ef1e6076cc6d826ee563640fd4675f5f.svg",
+    "static/media/location.svg": "/ganesham019/locate-equitas.git/static/media/location.c4098187518637a77790e72665df0fbd.svg",
+    "static/media/Map.svg": "/ganesham019/locate-equitas.git/static/media/Map.577ebbe108d06125d730447f3ac5c2d1.svg",
+    "static/media/iphone.svg": "/ganesham019/locate-equitas.git/static/media/iphone.b5670d948d5633003315455cb0fe61af.svg",
+    "static/media/Storys.svg": "/ganesham019/locate-equitas.git/static/media/Storys.01f8de4def90643cc340ac649a1e58be.svg",
+    "static/media/carousel1.svg": "/ganesham019/locate-equitas.git/static/media/carousel1.eea83cbc23878dbf1800d97301aa74a5.svg",
+    "static/media/imageTh.svg": "/ganesham019/locate-equitas.git/static/media/imageTh.d9745338f71eb5098fd3b536d698e090.svg",
+    "static/media/Offer.svg": "/ganesham019/locate-equitas.git/static/media/Offer.4d0b9bcce2b812eead108e2e612a283f.svg",
+    "static/media/Captache.svg": "/ganesham019/locate-equitas.git/static/media/Captache.00750d74d9b6cbe79ae7b03cdf1986d2.svg",
+    "static/media/logo.svg": "/ganesham019/locate-equitas.git/static/media/logo.f77129d3603e6fb81af0c17612bc8d15.svg",
+    "static/media/Callback.svg": "/ganesham019/locate-equitas.git/static/media/Callback.77883ca73ee8b855ec5016b207b4b63f.svg",
+    "index.html": "/ganesham019/locate-equitas.git/index.html",
+    "main.b213f593.css.map": "/ganesham019/locate-equitas.git/static/css/main.b213f593.css.map",
+    "main.106f5108.js.map": "/ganesham019/locate-equitas.git/static/js/main.106f5108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b213f593.css",
+    "static/js/main.106f5108.js"
+  ]
+}
