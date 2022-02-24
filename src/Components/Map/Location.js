@@ -13,6 +13,10 @@ function Location() {
                 <br />
                 <img src={location} class="img-fluid " alt="" />
 
+                <div className="d-flex flex-direction-column justify-content-evenly">
+
+                </div>
+
                 <div class="MapCard mx-auto mt-5 text-center shadow text-center">
                     <p className="CardText pt-4">Equitas Small Finance Bank</p>
                     <div className="mt-3 p-3">
@@ -45,7 +49,7 @@ function Location() {
                         </div>
                     </div>
                 </div>
-                <Nearby/>
+                <Nearby />
             </div>
         </div>
     )
