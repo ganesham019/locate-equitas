@@ -14,7 +14,7 @@ function Footer() {
                 <hr />
                 <div className="row text-center">
                     <div className="col-sm-5 text-left">
-                        <p>Allrights reserved © 2020</p>
+                        <p>Allrights reserved © 2022</p>
                     </div>
                     <div className="col-sm-7 text-left mx-auto">
                         <p>Powered by Tuskmelon</p>
